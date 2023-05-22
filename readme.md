@@ -1,0 +1,6 @@
+PROBLEMA: GENERARE A CASO DUE NUMERI, UNO PER IL PC E UNO PER IL GIOCATORE, CHI HA IL NUMERO PIù ALTO VINCE
+
+1-generare 2 numeri a caso da 1 a 6
+    il giocatore ha il numero più alto?
+    SI-VINCE IL GIOCATORE
+    NO-VINCE IL PC
